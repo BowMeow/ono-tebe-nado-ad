@@ -2,7 +2,7 @@
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  padding:90px 50px;
+  padding: 90px 50px;
   display: flex;
   justify-content: space-between;
 }
@@ -41,8 +41,7 @@
 }
 
 .header__address {
-  
-  width: 240px; 
+  width: 240px;
   font-style: normal;
   margin-top: 5px;
 }
@@ -164,7 +163,7 @@
   display: flex;
   justify-content: space-between;
   list-style-type: none;
-  margin:27px  24px 0;
+  margin: 27px 24px 0;
   margin-bottom: 30px;
   flex-wrap: wrap;
 }
@@ -208,8 +207,7 @@
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
-  
-  text-transform: uppercase; 
+  text-transform: uppercase;
   text-decoration: underline;
   text-decoration-style: solid;
   color: #FFFFFF;
@@ -224,7 +222,6 @@
 }
 
 .lots__link {
- 
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
@@ -252,10 +249,9 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 240px;
-  
   height: 240px;
   border-radius: 50%;
-  background-color: #111111; 
+  background-color: #111111;
   z-index: -1;
 }
 
@@ -267,7 +263,7 @@
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 40px;
-  text-transform: uppercase; 
+  text-transform: uppercase;
   margin-bottom: 100px;
 }
 
